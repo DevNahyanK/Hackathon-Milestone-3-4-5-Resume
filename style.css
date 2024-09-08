@@ -1,0 +1,37 @@
+/* #cv-form{
+     display: none; 
+} */
+#cv-template{
+    display: none;
+}
+.profileimg{
+    width: 200px;
+    border: 4px solid rgb(102, 97, 97);
+    border-radius: 50%;
+}
+.background{
+    background-color: #07d3d3;
+}
+.background01{
+    background-color: rgb(213, 221, 228);
+    border-radius: 10px;
+}
+.img-input{
+    display: block;
+    width: 200px;
+    background: none;
+    padding: 12px;
+    border: 2px solid rgb(33, 114, 213);;
+    color:  rgb(33, 114, 213);;
+    margin: 10px auto;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#input-image{
+    display: none;
+}
+.img-input:hover{
+    background-color: rgb(33, 114, 213);
+    border-color: rgb(33, 114, 213);
+    color: aliceblue;
+}
